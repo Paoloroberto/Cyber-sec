@@ -165,7 +165,6 @@ Aqui está o texto reorganizado com a ordem dos links alterada:
 - [Troy Hunt Blog](https://www.troyhunt.com/)
 - [Errata Security](https://blog.erratasec.com/)
 
-Claro, aqui estão os links reorganizados:
 
 ## 🕵️ Sites para estudar Cyber Security
 
@@ -377,7 +376,6 @@ Claro, aqui estão os links reorganizados:
 - [NetSecNow](https://www.youtube.com/user/netsecnow) - Tutoriais de segurança de rede e hacking ético.
 - [Null Byte](https://www.youtube.com/c/NullByte) - Tutoriais de hacking ético.
 
-Espero que esses recursos sejam úteis para você ao estudar e aprimorar suas habilidades em segurança cibernética! Se você tiver mais alguma pergunta ou precisar de mais informações, fique à vontade para perguntar.
 
 
 
@@ -462,7 +460,7 @@ https://www.youtube.com/playlist?list=PL0-4oWTgb_cniCsTF8hitbZL38NjFRyRr)
 - [Dive Into Docker, The Complete Course](https://diveintodocker.com/)
 - [Hashnode, Docker Tutorial For Beginners](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)
 - [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
-- [Docker Tutorial for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=free
+- [Docker Tutorial for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=free)
 
 CodeCamp.org)
 - [Docker Tutorial for Beginners - Programming with Mosh](https://www.youtube.com/watch?v=pTFZFxd4hOI&ab_channel=ProgrammingwithMosh)
@@ -516,9 +514,7 @@ CodeCamp.org)
 - [Hardware Hacking - Penegui](https://www.youtube.com/playlist?list=PLfka6izM9ttCfWU8cFSLw7nMp_X7E4m7T)
 - [Hardware Hacking - Security Society](https://www.youtube.com/playlist?list=PLtU1gNI5NZU4b0kgP0uXvYYvTq6AEynzQ)
 - [Hardware Hacking - Roadsec](https://www.youtube.com/playlist?list=PLGdaaZUNDlN6ntfjur2GZPyQiR6-bU2_e)
-- [Hardware Hacking - Playlist](https://www.youtube.com/playlist?list=PL8F1MJo6GR
-
-auDT1ZUpaeIji84UIvEJqNE)
+- [Hardware Hacking - Playlist](https://www.youtube.com/playlist?list=PL8F1MJo6GRauDT1ZUpaeIji84UIvEJqNE)
 
 > Cursos para aprender Hardware Hacking em Inglês
 - [Hardware Hacking - EH Academy](https://www.youtube.com/playlist?list=PLnHdPLODzxZuSjW9VgGyjGg27dRQCMC_4)
@@ -535,4 +531,4 @@ auDT1ZUpaeIji84UIvEJqNE)
 - [Hardware Hacking Tutorial](https://www.youtube.com/playlist?list=PLa9QNYpVwh8-t5c35aV4VNaToB-piKcqW)
 - [IoT Hacking with Metasploit](https://www.youtube.com/playlist?list=PLyvNUrLwPlDX0m8Qf9Kfh9d2o4LBlfzvH)
 
-Certifique-se de verificar as datas de publicação e a relevância de cada recurso ao seu aprendizado. Boa sorte em seus estudos de Python, Docker, Assembly, PowerShell e Hardware Hacking!
+Certifique-se de verificar as datas de publicação e a relevância de cada recurso ao seu aprendizado. Boa sorte em seus estudos de Python, Docker, Assembly, PowerShell e  Hacking!
