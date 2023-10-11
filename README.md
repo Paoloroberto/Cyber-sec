@@ -1,4 +1,173 @@
 Aqui estão os links reorganizados de acordo com sua solicitação:
+Aqui está o texto reorganizado com a ordem dos links alterada:
+
+# Cyber-sec
+
+## 💡 Nossa proposta
+
+> A proposta deste guia é fornecer conteúdos para seu estudo, para guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
+
+## :beginner: Para quem está começando agora
+
+> Não se assuste com a quantidade de conteúdo apresentados neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
+
+## 🚨 Colabore
+
+- Abra Pull Requests com atualizações
+- Discuta ideias em Issues
+- Compartilhe o repositório com a sua comunidade
+
+## ⚠️ Aviso importante
+
+#> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
+
+## 📚 ÍNDICE
+
+[🗺️ Cyber Security roadmap](#%EF%B8%8F-cyber-security-roadmap) <br>
+[🔧 Ferramentas para tradução de conteúdo](#-ferramentas-para-tradução-de-conteúdo) <br>
+[🧥 Introdução a área de Cyber Security](#-introdução-a-área-de-cyber-security) <br>
+[💼 Carreiras na área de Cyber Security](#-carreiras-na-área-de-cyber-security) <br>
+[🕵️‍♂️ Sites para estudar Cyber Security](#%EF%B8%8F%EF%B8%8F-sites-para-estudar-cyber-security) <br>
+[📰 Sites de noticias de Cyber Security](#-sites-de-noticias-de-cyber-security) <br>
+
+## 🗺️ Cyber Security roadmap
+
+![Cyber Security roadmap](https://i.imgur.com/eq4uu7P.jpg)
+
+## 🔧 Ferramentas para tradução de conteúdo
+> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do Português, desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de Cyber Security independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
+
+- [Google Translate](https://translate.google.com.br/?hl=pt-BR)
+- [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
+- [DeepL](https://www.deepl.com/pt-BR/translator)
+- [Reverso](https://context.reverso.net/traducao/ingles-portugues/translate)
+
+## 🧥 Introdução a área de Cyber Security
+> Também chamada de segurança de computadores ou segurança da tecnologia da informação, a cybersecurity é a prática de proteção de hardwares e softwares contra roubo ou danos, como servidores, dispositivos móveis, redes e aplicativos, as pessoas que atuam na área de Cyber Security de uma empresa são responsáveis por identificar todos os pontos vulneráveis do negócio no ambiente digital e em variados sistemas, o trabalho consiste em mapear todos os pontos fracos, que podem ser usados como porta de acesso para ataques virtuais. Além disso, é importante simular todos os possíveis ataques que poderiam ser realizados e criar proteções contra eles, antevendo os fatos para poder reforçar a segurança das informações e a redundância dos processos e sistemas de bancos de dados,
+
+ a fim de evitar que haja interrupção de serviços, de uma forma geral, é esperado que as pessoas que trabalham com Cyber Security realizem uma série de atividades, tais como:
+
+- Prever os riscos de sistemas, lojas virtuais e ambientes virtuais de empresas e diminuir possibilidades de ataques;
+- Detectar todas as intrusões e elaborar sistemas de proteção;
+- Criar políticas e planos de acesso a dados e informações;
+- Implementar e atualizar parâmetros de segurança;
+- Treinar e supervisionar o trabalho do time de Cyber Security;
+- Organizar um sistema eficiente e seguro para colaboradores/as e terceirizados/as;
+- Verificar todas as vulnerabilidades e as falhas responsáveis por elas;
+- Fazer auditorias periódicas nos sistemas;
+- Realizar avaliações de risco em redes, apps e sistemas;
+- Fazer testes de suscetibilidade;
+- Garantir plena segurança ao armazenamento de dados de empresas, lojas virtuais e outros.
+
+## 💼 Carreiras na área de Cyber Security
+> Nesse tópico você irá conhecer mais sobre as carreiras que você pode seguir dentro da área de Cyber Security, você encontrará as profissões em conjunto com um artigo ou video explicativo sobre como funciona.
+
+- [Forensics](https://imasters.com.br/carreira-dev/profissao-analista-forense-computacional)
+- [Biometrics](https://www.thoughtworks.com/pt-br/insights/decoder/b/biometrics)
+- [IA Security](https://successfulstudent.org/jobs-in-information-assurance-and-security/)
+- [IoT Security](https://www.quora.com/How-do-I-start-my-career-in-IoT-Security)
+- [Cryptography](https://www.wgu.edu/career-guide/information-technology/cryptographer-career.html#:~:text=What%20Does%20a%20Cryptographer%20Do,%2C%20business%2C%20or%20military%20data.)
+- [Cloud Security](https://www.cybersecurityjobsite.com/staticpages/10291/careers-in-cloud-security/#:~:text=Cloud%20security%20careers%20are%20set,these%20critical%20systems%20are%20safe.)
+- [Fraud Prevention](https://www.zippia.com/fraud-prevention-specialist-jobs/)
+- [Malware Analysis](https://onlinedegrees.sandiego.edu/malware-analyst-career-guide/#:~:text=A%20malware%20analyst%20works%20in,%2C%E2%80%9D%20explains%20the%20Infosec%20Institute.)
+- [Hardware Hacking](https://www.helpnetsecurity.com/2019/07/15/hardware-hacker/)
+- [Big Data Security](https://www.simplilearn.com/cyber-security-vs-data-science-best-career-option-article)
+- [Physical Security](https://www.zippia.com/physical-security-specialist-jobs/what-does-a-physical-security-specialist-do/)
+- [Security Awareness](https://resources.infosecinstitute.com/topic/security-awareness-manager-is-it-the-career-for-you/)
+- [Threat Intelligence](https://www.eccouncil.org/cybersecurity-exchange/threat-intelligence/why-pursue-career-cyber-threat-intelligence/#:~:text=Put%20simply%2C%20threat%20intelligence%20professionals,combat%20existing%20and%20emerging%20threats.)
+- [Business Continuity](https://www.zippia.com/business-continuity-planner-jobs/)
+- [Operations Security](https://www.zippia.com/operational-security-specialist-jobs/)
+- [Application Security](https://www.appsecengineer.com/blog/guide-to-becoming-an-application-security-engineer)
+- [Legal and Regulations](https://onlinemasteroflegalstudies.com/career-guides/)
+- [Communications Security](https://www.ukcybersecuritycouncil.org.uk/qualifications-and-careers/careers-route-map/cryptography-communications-security/)
+- [Cyber Security Engineer](https://onlinedegrees.sandiego.edu/should-you-become-a-cyber-security-engineer/#:~:text=Cybersecurity%20engineers%2C%20sometimes%20called%20information,and%20all%20types%20of%20cybercrime.)
+- [Advanced Cyber Analytics](https://www.coursera.org/articles/cybersecurity-analyst-job-guide)
+- [Vulnerability Management](https://www.ukcybersecuritycouncil.org.uk/qualifications-and-careers/careers-route-map/vulnerability-management/)
+- [Industrial Control Systems](https://ianmartin.com/careers/177380-industrial-control-system-ics-engineer/)
+- [Privacy and Data Protection](https://resources.infosecinstitute.com/topic/data-privacy-careers-which-path-is-right-for-you/)
+- [Data Protection Officer (DPO)](https://www.michaelpage.com.hk/advice/job-description/technology/data-protection-officer)
+- [Penetration Testing Engineer](https://onlinedegrees.sandiego.edu/vulnerability-and-penetration-testing/)
+- [Security and Risk Assessment](https://learn.org/articles/What_are_Some_Career_Options_in_Security_Risk_Assessment.html)
+- [Identity and Acess Management](https://identitymanagementinstitute.org/identity-and-access-management-career-and-jobs/#:~:text=Identity%20and%20access%20management%20career%20and%20jobs%20involve%20protecting%20systems,mechanism%20and%20have%20the%20appropriate)
+- [Software Development Security](https://cybersecurityguide.org/careers/security-software-developer/#:~:text=A%20security%20software%20developer%20is,written%20and%20verbal%20communication%20skills.)
+- [Offensive Security (Red Team)](https://careers.mitre.org/us/en/job/R107322/Offensive-Security-Red-Team-Developer)
+- [Defensive Security (Blue Team)](https://www.csnp.org/post/a-career-in-defensive-security-blue-team#:~:text=What%20is%20the%20Blue%20team,all%20the%20security%20measures%20applied.)
+- [Incident Handling And Analysis](https://www.ziprecruiter.com/Career/Incident-Response-Analyst/What-Is-How-to-Become)
+- [Introsuion Detection and Prevention](https://www.spiceworks.com/it-security/vulnerability-management/articles/what-is-idps/#:~:text=An%20intrusion%20detection%20and%20prevention,administrator%20and%20prevent%20potential%20attacks.)
+-
+
+ [Information Security Governance](https://www.ukcybersecuritycouncil.org.uk/qualifications-and-careers/careers-route-map/cyber-security-governance-risk-management/)
+- [Security Frameworks and Standards](https://www.linkedin.com/pulse/overview-cyber-security-frameworks-standards-tommy/)
+- [Security Architecture and Design](https://www.infosectrain.com/blog/roles-and-responsibilities-of-a-security-architect/#:~:text=A%20Security%20Architect%20creates%2C%20plans,%2C%20cybersecurity%2C%20and%20risk%20management.)
+
+## 🕵️‍♂️ Sites para estudar Cyber Security
+
+- [HackXpert](https://hackxpert.com/) - Laboratórios e treinamentos gratuitos.
+- [TryHackMe](https://tryhackme.com/) - Exercícios práticos e laboratórios.
+- [CyberSecLabs](https://www.cyberseclabs.co.uk/) - Laboratórios de treinamento de alta qualidade.
+- [Cybrary](https://www.cybrary.it/) - Vídeos, laboratórios e exames práticos.
+- [LetsDefend](https://letsdefend.io/) - Plataforma de treinamento da blue team.
+- [Root Me](https://www.root-me.org/) - Mais de 400 desafios de cyber security.
+- [RangeForce](https://www.rangeforce.com/) - Plataforma interativa e prática. 
+- [Certified Secure](https://www.certifiedsecure.com/frontpage) - Muitos desafios diferentes.
+- [Vuln Machines](https://www.vulnmachines.com/) - Cenários do mundo real para praticar.
+- [Try2Hack](https://try2hack.me/) - Jogue um jogo baseado nos ataques reais.
+- [TCM Security](https://academy.tcm-sec.com/) - Cursos de nível básico para cyber security.
+- [EchoCTF](https://echoctf.red/) - Treine suas habilidades ofensivas e defensivas.
+- [Hack The Box](https://www.hackthebox.com/) - Plataforma online de treinamento em cyber security.
+- [Vuln Hub](https://www.vulnhub.com/) - Material para experiência prática.
+- [OverTheWire](https://overthewire.org/wargames/) - Aprenda conceitos de segurança por meio de desafios.
+- [PentesterLab](https://pentesterlab.com/) - Aprenda testes de penetração de aplicativos da web.
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Amplo material didático.
+
+## 📰 Sites de noticias de Cyber Security
+
+- [Bleeping Computer](https://www.bleepingcomputer.com/)
+- [Malwarebytes Blog](https://www.malwarebytes.com/blog)
+- [IT Security Guru](https://www.itsecurityguru.org/)
+- [Security Weekly](https://securityweekly.com/)
+- [The Hacker News](https://thehackernews.com/)
+- [Infosecurity Magazine](https://www.infosecurity-magazine.com/)
+- [CSO Online](https://www.csoonline.com/)
+- [The State of Security - Tripwire](https://www.tripwire.com/state-of-security/)
+- [The Last Watchdog](https://www.lastwatchdog.com/)
+- [Naked Security](https://nakedsecurity.sophos.com/)
+- [Graham Cluley](https://grahamcluley.com/)
+- [Cyber Magazine](https://cybermagazine.com/)
+- [WeLiveSecurity](https://www.welivesecurity.com/br/)
+- [Dark Reading](https://www.darkreading.com/)
+- [Threatpost](https://threatpost.com/)
+- [Krebs on Security](https://krebsonsecurity.com/)
+- [Help Net Security](https://www.helpnetsecurity.com/)
+- [HackRead](https://www.hackread.com/)
+- [SearchSecurity](https://www.techtarget.com/searchsecurity/)
+- [TechWorm](https://www.techworm.net/category/security-news)
+- [GBHackers On Security](https://gbhackers.com/)
+- [The CyberWire](https://thecyberwire.com/)
+- [Cyber Defense Magazine](https://www.cyberdefensemagazine.com/)
+- [Hacker Combat](https://hackercombat.com/)
+- [Cybers Guards](https://cybersguards.com/)
+- [Cybersecurity Insiders](https://www.cybersecurity-insiders.com/)
+- [Information Security Buzz](https://informationsecuritybuzz.com/)
+- [The Security Ledger](https://securityledger.com/)
+- [Security Gladiators](https://securitygladiators.com/)
+- [Infosec Land](https://pentester.land/)
+- [Cyber Security Review](https://www.cybersecurity-review.com/)
+- [Comodo News](https://blog.comodo.com/)
+- [Internet Storm Center | SANS](https://isc.sans.edu/)
+- [Daniel Miessler](https://danielmiessler.com/)
+- [TaoSecurity](https://www.taosecurity.com/)
+- [Reddit](https://www.reddit.com/search/?q=Security%20news)
+- [All InfoSec News](https://allinfosecnews.com/)
+- [CVE Trends](https://cvetrends.com/)
+- [Securibee](https://securib.ee/)
+- [threatABLE](https://www.threatable.io/)
+- [Troy Hunt Blog](https://www.troyhunt.com/)
+- [Errata Security](https://blog.erratasec.com/)
+
+
+
+
 
 ## Python
 
