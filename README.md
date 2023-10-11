@@ -416,9 +416,7 @@ Aqui está o texto reorganizado com a ordem dos links alterada:
 - [Python for hackers course](https://www.youtube.com/playlist?list=PLFA5k60XteCmzAGxhfmauety1VbcUk9eh)
 - [Black Hat Python for Pentesters and Hackers tutorial](https://www.youtube.com/playlist?list=PLTgRMOcmRb3N5i5gBSjAqJ4c7m1CQDS0X)
 - [Python For Hackers](https://www.youtube.com/playlist?list=PLQzKQEJTLWfyyDGV_CQbPGTJn5apS10uN)
-- [The Complete Ethical Hacking Course Beginner to Advanced](
-
-https://www.youtube.com/playlist?list=PL0-4oWTgb_cniCsTF8hitbZL38NjFRyRr)
+- [The Complete Ethical Hacking Course Beginner to Advanced](https://www.youtube.com/playlist?list=PL0-4oWTgb_cniCsTF8hitbZL38NjFRyRr)
 - [Python Security - Abdallah Elsokary](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ-k4ADq_kyuyWVSRPC5JxeG)
 - [Python Hacking - OccupyTheWeb](https://www.youtube.com/playlist?list=PLpJ5UHZQbpQvXbGzJHxjXH9Y7uxd-tnA7)
 - [Python For Hacking - Technical Hacker](https://www.youtube.com/playlist?list=PLb9t9VtleL9WTrk74L4xQIq6LM0ndQBEA)
