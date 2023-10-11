@@ -165,7 +165,219 @@ Aqui está o texto reorganizado com a ordem dos links alterada:
 - [Troy Hunt Blog](https://www.troyhunt.com/)
 - [Errata Security](https://blog.erratasec.com/)
 
+Claro, aqui estão os links reorganizados:
 
+## 🕵️ Sites para estudar Cyber Security
+
+- [HackXpert](https://hackxpert.com/) - Laboratórios e treinamentos gratuitos.
+- [TryHackMe](https://tryhackme.com/) - Exercícios práticos e laboratórios.
+- [CyberSecLabs](https://www.cyberseclabs.co.uk/) - Laboratórios de treinamento de alta qualidade.
+- [Cybrary](https://www.cybrary.it/) - Vídeos, laboratórios e exames práticos.
+- [LetsDefend](https://letsdefend.io/) - Plataforma de treinamento da blue team.
+- [Root Me](https://www.root-me.org/) - Mais de 400 desafios de cyber security.
+- [RangeForce](https://www.rangeforce.com/) - Plataforma interativa e prática. 
+- [Certified Secure](https://www.certifiedsecure.com/frontpage) - Muitos desafios diferentes.
+- [Vuln Machines](https://www.vulnmachines.com/) - Cenários do mundo real para praticar.
+- [Try2Hack](https://try2hack.me/) - Jogue um jogo baseado nos ataques reais.
+- [TCM Security](https://academy.tcm-sec.com/) - Cursos de nível básico para cyber security.
+- [EchoCTF](https://echoctf.red/) - Treine suas habilidades ofensivas e defensivas.
+- [Hack The Box](https://www.hackthebox.com/) - Plataforma online de treinamento em cyber security.
+- [Vuln Hub](https://www.vulnhub.com/) - Material para experiência prática.
+- [OverTheWire](https://overthewire.org/wargames/) - Aprenda conceitos de segurança por meio de desafios.
+- [PentesterLab](https://pentesterlab.com/) - Aprenda testes de penetração de aplicativos da web.
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Amplo material didático.
+
+## 📰 Sites de noticias de Cyber Security
+
+- [Bleeping Computer](https://www.bleepingcomputer.com/)
+- [Malwarebytes Blog](https://www.malwarebytes.com/blog)
+- [IT Security Guru](https://www.itsecurityguru.org/)
+- [Security Weekly](https://securityweekly.com/)
+- [The Hacker News](https://thehackernews.com/)
+- [Infosecurity Magazine](https://www.infosecurity-magazine.com/)
+- [CSO Online](https://www.csoonline.com/)
+- [The State of Security - Tripwire](https://www.tripwire.com/state-of-security/)
+- [The Last Watchdog](https://www.lastwatchdog.com/)
+- [Naked Security](https://nakedsecurity.sophos.com/)
+- [Graham Cluley](https://grahamcluley.com/)
+- [Cyber Magazine](https://cybermagazine.com/)
+- [WeLiveSecurity](https://www.welivesecurity.com/br/)
+- [Dark Reading](https://www.darkreading.com/)
+- [Threatpost](https://threatpost.com/)
+- [Krebs on Security](https://krebsonsecurity.com/)
+- [Help Net Security](https://www.helpnetsecurity.com/)
+- [HackRead](https://www.hackread.com/)
+- [SearchSecurity](https://www.techtarget.com/searchsecurity/)
+- [TechWorm](https://www.techworm.net/category/security-news)
+- [GBHackers On Security](https://gbhackers.com/)
+- [The CyberWire](https://thecyberwire.com/)
+- [Cyber Defense Magazine](https://www.cyberdefensemagazine.com/)
+- [Hacker Combat](https://hackercombat.com/)
+- [Cybers Guards](https://cybersguards.com/)
+- [Cybersecurity Insiders](https://www.cybersecurity-insiders.com/)
+- [Information Security Buzz](https://informationsecuritybuzz.com/)
+- [The Security Ledger](https://securityledger.com/)
+- [Security Gladiators](https://securitygladiators.com/)
+- [Infosec Land](https://pentester.land/)
+- [Cyber Security Review](https://www.cybersecurity-review.com/)
+- [Comodo News](https://blog.comodo.com/)
+- [Internet Storm Center | SANS](https://isc.sans.edu/)
+- [Daniel Miessler](https://danielmiessler.com/)
+- [TaoSecurity](https://www.taosecurity.com/)
+- [Reddit](https://www.reddit.com/search/?q=Security%20news)
+- [All InfoSec News](https://allinfosecnews.com/)
+- [CVE Trends](https://cvetrends.com/)
+- [Securibee](https://securib.ee/)
+- [threatABLE](https://www.threatable.io/)
+- [Troy Hunt Blog](https://www.troyhunt.com/)
+- [Errata Security](https://blog.erratasec.com/)
+
+## 📃 Newsletters de Cyber Security
+
+- [API Security Newsletter](https://apisecurity.io/) - Notícias e vulnerabilidades de segurança da API.
+- [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) - Ferramentas, eventos, ameaças.
+- [We Live Security](https://www.welivesecurity.com/br/) - Notícias, visualizações e insights premiados.
+- [SecPro](https://www.thesec.pro/) - Análise de ameaças, ataques e tutoriais.
+- [Gov Info Security](https://www.govinfosecurity.com/) - Notícias governamentais de segurança cibernética nacionais e internacionais.
+- [Threatpost](https://threatpost.com/newsletter-sign/) - Exploits, vulnerabilidades, malware e segurança cibernética.
+- [AWS Security Digest](https://awssecuritydigest.com/) - Atualizações de segurança da AWS.
+- [Krebs On Security](https://krebsonsecurity.com/subscribe/) - Jornalismo investigativo de segurança cibernética que é interessante.
+- [Risky Biz](https://risky.biz/subscribe/) - Análise de grandes histórias cibernéticas.
+- [Unsupervised Learning Community](https://danielmiessler.com/newsletter/) - Histórias importantes de segurança cibernética.
+- [Schneier on Security](https://www.schneier.com/) - Notícias e opiniões sobre segurança cibernética.
+- [CyberSecNewsWeekly](https://buttondown.email/CybersecNewsWeekly) - Coleção de notícias, artigos e ferramentas.
+- [RTCSec](https://www.rtcsec.com/newsletter/) - Notícias sobre segurança VOIP e WebRTC.
+- [This Week in 4n6](https://thisweekin4n6.com/) - Atualizações do
+
+ DFIR.
+- [Securibee Newsletter](https://securib.ee/newsletter/) - Notícias de segurança cibernética com curadoria.
+- [Shift Security Left](https://shift-security-left.curated.co/) - Segurança, arquitetura e incidentes de aplicativos.
+- [TripWire’s State of Security](https://www.tripwire.com/state-of-security/) - Notícias de segurança cibernética corporativa.
+- [Graham Cluley](https://grahamcluley.com/gchq-newsletter/) - Notícias e opiniões sobre segurança cibernética.
+- [Zero Day](https://zetter.substack.com/) - Histórias sobre hackers, espiões e crimes cibernéticos.
+- [The Hacker News](https://thehackernews.com/#email-outer) - Notícias de cibersegurança.
+- [CSO Online](https://www.csoonline.com/newsletters/signup.html) - Notícias, análises e pesquisas sobre segurança e gerenciamento de riscos.
+- [Naked Security](https://nakedsecurity.sophos.com/) - Como se proteger de ataques.
+- [AdvisoryWeek](https://advisoryweek.com/) - Resumos de consultoria de segurança dos principais fornecedores.
+- [tl;dr sec Newsletter](https://tldrsec.com/) - Ferramentas, posts em blogs, conferências e pesquisas.
+
+## 🗃️ Awesome Hacking
+
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+- [Awesome Security](https://github.com/sbilly/awesome-security)
+- [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
+- [Awesome Darknet](https://github.com/DarknetList/awesome-darknet)
+- [Awesome Tor](https://github.com/ajvb/awesome-tor)
+- [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
+- [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
+- [Awesome Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
+- [Awesome Hacking Amazing Project](https://github.com/carpedm20/awesome-hacking)
+- [Awesome Pentest Tools](https://github.com/gwen001/pentest-tools)
+- [Awesome Forensic Tools](https://github.com/ivbeg/awesome-forensicstools)
+- [Awesome Android Security](https://github.com/ashishb/android-security-awesome)
+- [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
+- [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
+- [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+- [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
+- [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills)
+- [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops)
+- [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
+- [Awesome Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)
+- [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
+- [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+- [Awesome Industrial Control System](https://github.com/hslatman/awesome-industrial-control-system-security)
+- [Awesome Infosec](https://github.com/onlurking/awesome-infosec)
+- [Awesome IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks)
+- [Awesome Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking)
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+- [Awesome macOS and iOS Security Related Tools](https://github.com/ashishb/osx-and-ios-security-awesome)
+- [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools)
+- [Awesome PHP](https://github.com/ziadoz/awesome-php)
+- [Awesome Reversing](https://github.com/tylerha97/awesome-reversing)
+- [Awesome Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+- [Awesome Security Talks](https://github.com/PaulSec/awesome-sec-talks)
+- [Awesome Serverless Security](https://github.com/puresec/awesome-serverless-security/)
+- [Awesome Social Engineering](https://github.com/v2-dev/awesome-social-engineering)
+- [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+- [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)
+- [Awesome Vulnerability Research](https://github.com/sergey-pronin/Awesome-Vulnerability-Research)
+- [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
+- [Awesome Advanced Windows Exploitation References](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References)
+- [Awesome Wifi Arsenal](https://github.com/0x90/wifi-arsenal)
+- [Awesome YARA](https://github.com/InQuest/awesome-yara)
+- [Awesome Browser Exploit](https://github.com/Escapingbug/awesome-browser-exploit)
+- [Awesome Linux Rootkits](https://github.com/milabs/awesome-linux-rootkits)
+- [Awesome API Security](https://github.com/arainho/awesome
+
+-api-security/)
+
+## 🔗 Testes de segurança de API
+
+> Cursos, videos, artigos, blogs, podcast sobre testes de segurança de API em Português 
+- [Segurança em APIs REST](https://blog.mandic.com.br/artigos/seguranca-em-apis-rest-parte-1/)
+- [Segurança de APIs - Red Hat](https://www.redhat.com/pt-br/topics/security/api-security)
+- [Segurança de API: 5 melhores práticas para controlar riscos](https://www.bry.com.br/blog/seguranca-de-api/)
+- [O que é Segurança de API](https://minutodaseguranca.blog.br/o-que-e-seguranca-de-api/)
+
+> Cursos, videos, artigos, blogs, podcast sobre testes de segurança de API em Inglês
+- [Traceable AI, API Hacking 101](https://www.youtube.com/watch?v=qC8NQFwVOR0&ab_channel=Traceable)
+- [Katie Paxton-Fear, API Hacking](https://www.youtube.com/watch?v=qC8NQFwVOR0&ab_channel=Traceable)
+- [Bad API, hAPI Hackers! by jr0ch17](https://www.youtube.com/watch?v=UT7-ZVawdzA&ab_channel=Bugcrowd)
+- [OWASP API Security Top 10 Webinar](https://www.youtube.com/watch?v=zTkv_9ChVPY&ab_channel=42Crunch)
+- [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
+- [Let's build an API to hack](https://hackxpert.com/blog/API-Hacking-Excercises/Excercises%207e5f4779cfe34295a0d477a12c05ecbd/Let's%20build%20an%20API%20to%20hack%20-%20Part%201%20The%basics%2007599097837a4f539104b20376346b7e.html)
+- [Bugcrowd, API Security 101 - Sadako](https://www.youtube.com/watch?v=ijalD2NkRFg&ab_channel=Bugcrowd)
+- [David Bombal, Free API Hacking Course](https://www.youtube.com/watch?v=CkVvB5woQRM&ab_channel=DavidBombal)
+- [How To Hack API In 60 Minutes With Open Source Tools](https://www.wallarm.com/what/how-to-hack-api-in-60-minutes-with-open-source)
+- [APIsecurity IO, API Security Articles](https://apisecurity.io/)
+- [The API Security Maturity Model](https://curity.io/resources/learn/the-api-security-maturity-model/)
+- [API Security Best Practices MegaGuide](https://expeditedsecurity.com/api-security-best-practices-megaguide/)
+- [API Security Testing Workshop - Grant Ongers](https://www.youtube.com/watch?v=l0ISDMUpm68&ab_channel=StackHawk)
+- [The XSS Rat, API Testing And Securing Guide](https://www.youtube.com/playlist?list=PLd92v1QxPOprsg5fTjGBApq4rpb0G-N8L)
+- [APIsec OWASP API Security Top 10: A Deep Dive](https://www.apisec.ai/blog/what-is-owasp-api-security-top-10)
+- [We Hack Purple, API Security Best Practices](https://www.youtube.com/watch?v=F9CN0NE93Qc&ab_channel=WeHackPurple)
+- [Kontra Application Security, Owasp Top 10 for API](https://application.security/free/owasp-top-10-API)
+- [OWASP API Top 10 CTF Walk-through](https://securedelivery.io/articles/api-top-ten-walkthrough/)
+- [How To Hack An API And Get Away With It](https://smartbear.com/blog/api-security-testing-how-to-hack-an-api-part-1/)
+- [Ping Identity, API Security: The Complete Guide 2022](https://www.pingidentity.com/en/resources/blog/post/complete-guide-to-api-security.html)
+- [Analyzing The OWASP API Security Top 10 For Pen Testers](https://www.youtube.com/watch?v=5UTHUZ3NGfw&ab_channel=SANSOffensiveOperations)
+- [Finding and Exploiting Unintended Functionality in Main Web App APIs](https://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af)
+- [API Security: The Complete Guide to Threats, Methods & Tools](https://brightsec.com/blog/api-security/)
+
+## 🎥 Canais do Youtube
+
+- [Mente binária](https://www.youtube.com/c/PapoBin%C3%A1rio) - Contéudo geral sobre Cyber Security
+- [Guia Anônima](https://www.youtube.com/user/adsecf) - Contéudo geral sobre Cyber Security
+- [Hak5](https://www.youtube.com/c/hak5) - Contéudo geral sobre Cyber Security
+- [The XSS rat](https://www.youtube.com/c/TheXSSrat) - Tudo sobre Bug Bounty
+- [ITProTV](https://www.youtube.com/c/ItproTv) - Contéudo geral sobre Cyber Security
+- [Infosec](https://www.youtube.com/c/InfoSecInstitute) - Conscientização sobre Cyber Security
+- [Cyrill Gössi](https://www.youtube.com/channel/UCp1rLlh9AQN9Pejzbg9dcAg) - Vídeos de criptografia.
+- [DC CyberSec](https://www.youtube.com/c/DCcybersec) - Contéudo geral sobre Cyber Security
+- [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT) - Conferências técnicas de cibersegurança.
+- [David Bombal](https://www.youtube.com/c/DavidBombal) - Tudo relacionado à segurança cibernética.
+- [Outpost Gray](https://www.youtube.com/c/OutpostGray) - Desenvolvimento de carreira em segurança cibernética.
+- [Bugcrowd](https://www.youtube.com/c/Bugcrowd) - Metodologias de Bug Bounty e entrevistas.
+- [Network Chuck](https://www.youtube.com/c/NetworkChuck) - Tudo relacionado à segurança cibernética.
+- [Professor Messer](https://www.youtube.com/c/professormesser) - Guias cobrindo certificações.
+- [Cyberspatial](https://www.youtube.com/c/Cyberspatial) - Educação e treinamento em segurança cibernética.
+- [OWASP Foundation](https://www.youtube.com/c/OWASPGLOBAL) - Conteúdo de segurança de aplicativos da Web.
+- [Nahamsec](https://www.youtube.com/c/Nahamsec) - Vídeos educativos sobre hackers e bug
+
+ bounty.
+- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor) - Tutoriais e treinamento em segurança cibernética.
+- [IppSec](https://www.youtube.com/c/ippsec) - Resolução de máquinas Hack The Box.
+- [Eli the Computer Guy](https://www.youtube.com/c/elithecomputerguy) - Segurança de rede e TI.
+- [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - Vídeos sobre exploração de software e segurança cibernética.
+- [Lesley Carhart](https://www.youtube.com/c/Hacks4Pancakes) - Palestras sobre segurança cibernética e carreira.
+- [NetSecNow](https://www.youtube.com/user/netsecnow) - Tutoriais de segurança de rede e hacking ético.
+- [Null Byte](https://www.youtube.com/c/NullByte) - Tutoriais de hacking ético.
+
+Espero que esses recursos sejam úteis para você ao estudar e aprimorar suas habilidades em segurança cibernética! Se você tiver mais alguma pergunta ou precisar de mais informações, fique à vontade para perguntar.
 
 
 
