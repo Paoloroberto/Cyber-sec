@@ -1,6 +1,6 @@
 ## 💡 Nosso Objetivo
 
-Este guia tem como objetivo fornecer recursos para auxiliar na sua jornada de aprendizado. Queremos ser um guia, não para ditar suas escolhas com base em tendências atuais, mas para capacitá-lo com um <b>conhecimento amplo de diversas estruturas e soluções disponíveis.</b> Acreditamos que esse conhecimento irá capacitar você a tomar decisões mais informadas ao escolher a abordagem que melhor se adapte às suas necessidades. Lembre-se de que seguir tendências sem pensar pode não ser a escolha mais acertada.
+> Este guia tem como objetivo fornecer recursos para auxiliar na sua jornada de aprendizado. Queremos ser um guia, não para ditar suas escolhas com base em tendências atuais, mas para capacitá-lo com um <b>conhecimento amplo de diversas estruturas e soluções disponíveis.</b> Acreditamos que esse conhecimento irá capacitar você a tomar decisões mais informadas ao escolher a abordagem que melhor se adapte às suas necessidades. Lembre-se de que seguir tendências sem pensar pode não ser a escolha mais acertada.
 
 ## :beginner: Para Iniciantes
 
