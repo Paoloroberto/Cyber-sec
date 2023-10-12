@@ -304,9 +304,7 @@
 - [Awesome YARA](https://github.com/InQuest/awesome-yara)
 - [Awesome Browser Exploit](https://github.com/Escapingbug/awesome-browser-exploit)
 - [Awesome Linux Rootkits](https://github.com/milabs/awesome-linux-rootkits)
-- [Awesome API Security](https://github.com/arainho/awesome
-
--api-security/)
+- [Awesome API Security](https://github.com/arainho/awesome-api-security/)
 
 ## 🔗 Testes de segurança de API
 
@@ -523,9 +521,7 @@ CodeCamp.org)
 - [Hardware Hacking Tutorial](https://www.youtube.com/playlist?list=PLa9QNYpVwh8-t5c35aV4VNaToB-piKcqW)
 - [IoT Hacking with Metasploit](https://www.youtube.com/playlist?list=PLyvNUrLwPlDX0m8Qf9Kfh9d2o4LBlfzvH)
 
-Certifique-se de verificar as datas de publicação e a relevância de cada recurso ao seu aprendizado. Boa sorte em seus estudos de Python, Docker, Assembly, PowerShell e  Hacking!
-
-Claro, aqui estão os links formatados no estilo que você pediu:
+## Livros
 
 1. **Web Application Vulnerabilities - Detect, Exploit, Prevent.pdf - Michael Cross - Igor Muttik - Haroon Meer - Steve Palmer - Petko “pdp” D. Petkov - Roelof Temmingh**
    [Link para Download](https://drive.google.com/file/d/1g_tWXgBnqRneZkf8MKxFf-oKUmIWZb_Q/view)
