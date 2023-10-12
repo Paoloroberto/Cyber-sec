@@ -530,3 +530,28 @@ CodeCamp.org)
 - [IoT Hacking with Metasploit](https://www.youtube.com/playlist?list=PLyvNUrLwPlDX0m8Qf9Kfh9d2o4LBlfzvH)
 
 Certifique-se de verificar as datas de publicação e a relevância de cada recurso ao seu aprendizado. Boa sorte em seus estudos de Python, Docker, Assembly, PowerShell e  Hacking!
+
+Claro, aqui estão os links formatados no estilo que você pediu:
+
+1. **Web Application Vulnerabilities - Detect, Exploit, Prevent.pdf - Michael Cross - Igor Muttik - Haroon Meer - Steve Palmer - Petko “pdp” D. Petkov - Roelof Temmingh**
+   [Link para Download](https://drive.google.com/file/d/1g_tWXgBnqRneZkf8MKxFf-oKUmIWZb_Q/view)
+
+2. **The Web book - How to create Web sites and applications with HTML, CSS, Javascript, PHP and MySQL. - Robert Schifreen**
+   [Link para Download](https://drive.google.com/file/d/1LirajaFTVPxhpKfotFbuu-w5WajP_TuS/view)
+
+3. **As 10 vulnerabilidades de segurança mais críticas em aplicações WEB**
+   [Link para Download](https://drive.google.com/file/d/1DBlJaxM_kSanmWQhcFIJY8MOnDQ8CU2Q/view)
+
+4. **Wireshark® for Security Professionals - Jessey BullockJeff T. Parker**
+   [Link para Download](https://drive.google.com/file/d/1MaFVfL3wk4VlWUkbuskzMZ_7bzPa6chi/view)
+
+5. **Cybersecurity for Beginners - RAEF MEEUWISSE**
+   [Link para Download](https://drive.google.com/file/d/1FzTVWjQewUhhZIONLu0udXX1NZC65F6c/view)
+
+6. **SEGURANÇA CIBERNÉTICA: Política Brasileira e a Experiência Internacional.pdf**
+   [Link para Download](https://drive.google.com/file/d/1t5kWNYCZGbtMkjdPpuB3dcCqs-hLhXHm/view)
+
+7. **Linux Essentials for Cybersecurity.pdf**
+   [Link para Download](https://drive.google.com/file/d/1wunR9udGDlU8l951V3w3rjij7oZUXvIJ/view)
+
+Aproveite a leitura! Se precisar de mais informações ou recursos adicionais, fique à vontade para perguntar.
