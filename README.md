@@ -23,6 +23,8 @@
 [💼 Carreiras na área de Cyber Security](#-carreiras-na-área-de-cyber-security) <br>
 [🕵️‍♂️ Sites para estudar Cyber Security](#%EF%B8%8F%EF%B8%8F-sites-para-estudar-cyber-security) <br>
 [📰 Sites de noticias de Cyber Security](#-sites-de-noticias-de-cyber-security) <br>
+[📚 Livros](#-livros)
+
 
 ## 🗺️ Cyber Security roadmap
 
@@ -544,4 +546,3 @@ CodeCamp.org)
 7. **Linux Essentials for Cybersecurity.pdf**
    [Link para Download](https://drive.google.com/file/d/1wunR9udGDlU8l951V3w3rjij7oZUXvIJ/view)
 
-Aproveite a leitura! Se precisar de mais informações ou recursos adicionais, fique à vontade para perguntar.
