@@ -1,26 +1,20 @@
-Aqui estão os links reorganizados de acordo com sua solicitação:
-Aqui está o texto reorganizado com a ordem dos links alterada:
+## 💡 Nosso Objetivo
 
-# Cyber-sec
+Este guia tem como objetivo fornecer recursos para auxiliar na sua jornada de aprendizado. Queremos ser um guia, não para ditar suas escolhas com base em tendências atuais, mas para capacitá-lo com um <b>conhecimento amplo de diversas estruturas e soluções disponíveis.</b> Acreditamos que esse conhecimento irá capacitar você a tomar decisões mais informadas ao escolher a abordagem que melhor se adapte às suas necessidades. Lembre-se de que seguir tendências sem pensar pode não ser a escolha mais acertada.
 
-## 💡 Nossa proposta
+## :beginner: Para Iniciantes
 
-A finalidade deste guia é disponibilizar recursos para sua aprendizagem, com o intuito de orientá-lo caso você se sinta desorientado sobre qual caminho seguir a seguir no seu aprendizado. Não estamos buscando influenciar suas escolhas com base nas modas e tendências atuais. Acreditamos que, ao adquirir um <b>conhecimento mais abrangente sobre diversas estruturas e soluções disponíveis, você poderá tomar decisões mais informadas ao escolher a abordagem que melhor se adapta às suas necessidades.</b> É importante lembrar que seguir cegamente as modas e tendências nem sempre resulta na melhor escolha.
+> Não se sobrecarregue com a quantidade de conteúdo apresentada neste guia. Para quem está começando, considere-o um recurso de apoio, não um roteiro rígido. <b>Neste momento, concentre-se no que é mais produtivo para você, e deixe o restante para explorar mais tarde</b>. À medida que seu conhecimento cresce, este guia se tornará mais relevante e de mais fácil assimilação. Aproveite seus estudos e sinta-se à vontade para entrar em contato quando precisar! :muscle:
 
-## :beginner: Para quem está começando agora
+## 🚨 Colaboração
 
-> Não se assuste com a quantidade de conteúdo apresentados neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
+- Fique à vontade para enviar Pull Requests com atualizações.
+- Participe de discussões nas Issues.
+- Compartilhe este repositório com sua comunidade.
 
-## 🚨 Colabore
+## ⚠️ Aviso Importante
 
-- Abra Pull Requests com atualizações
-- Discuta ideias em Issues
-- Compartilhe o repositório com a sua comunidade
-
-## ⚠️ Aviso importante
-
-#> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
-
+> Primeiramente, você pode nos ajudar e colaborar conosco. Organizar este repositório e criar um recurso útil para seus estudos e trabalhos demandou muito esforço. Portanto, você pode retribuir de algumas maneiras:
 ## 📚 ÍNDICE
 
 [🗺️ Cyber Security roadmap](#%EF%B8%8F-cyber-security-roadmap) <br>
