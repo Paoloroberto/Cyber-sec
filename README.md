@@ -5,7 +5,7 @@ Aqui está o texto reorganizado com a ordem dos links alterada:
 
 ## 💡 Nossa proposta
 
-> A proposta deste guia é fornecer conteúdos para seu estudo, para guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
+A finalidade deste guia é disponibilizar recursos para sua aprendizagem, com o intuito de orientá-lo caso você se sinta desorientado sobre qual caminho seguir a seguir no seu aprendizado. Não estamos buscando influenciar suas escolhas com base nas modas e tendências atuais. Acreditamos que, ao adquirir um <b>conhecimento mais abrangente sobre diversas estruturas e soluções disponíveis, você poderá tomar decisões mais informadas ao escolher a abordagem que melhor se adapta às suas necessidades.</b> É importante lembrar que seguir cegamente as modas e tendências nem sempre resulta na melhor escolha.
 
 ## :beginner: Para quem está começando agora
 
