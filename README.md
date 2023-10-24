@@ -1,20 +1,5 @@
-## 💡 Nosso Objetivo
 
-> Este guia tem como objetivo fornecer recursos para auxiliar na sua jornada de aprendizado. Queremos ser um guia, não para ditar suas escolhas com base em tendências atuais, mas para capacitá-lo com um <b>conhecimento amplo de diversas estruturas e soluções disponíveis.</b> Acreditamos que esse conhecimento irá capacitar você a tomar decisões mais informadas ao escolher a abordagem que melhor se adapte às suas necessidades. Lembre-se de que seguir tendências sem pensar pode não ser a escolha mais acertada.
 
-## :beginner: Para Iniciantes
-
-> Não se sobrecarregue com a quantidade de conteúdo apresentada neste guia. Para quem está começando, considere-o um recurso de apoio, não um roteiro rígido. <b>Neste momento, concentre-se no que é mais produtivo para você, e deixe o restante para explorar mais tarde</b>. À medida que seu conhecimento cresce, este guia se tornará mais relevante e de mais fácil assimilação. Aproveite seus estudos e sinta-se à vontade para entrar em contato quando precisar! :muscle:
-
-## 🚨 Colaboração
-
-- Fique à vontade para enviar Pull Requests com atualizações.
-- Participe de discussões nas Issues.
-- Compartilhe este repositório com sua comunidade.
-
-## ⚠️ Aviso Importante
-
-> Primeiramente, você pode nos ajudar e colaborar conosco. Organizar este repositório e criar um recurso útil para seus estudos e trabalhos demandou muito esforço. Portanto, você pode retribuir de algumas maneiras:
 ## 📚 ÍNDICE
 
 [🗺️ Cyber Security roadmap](#%EF%B8%8F-cyber-security-roadmap) <br>
